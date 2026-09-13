@@ -1,0 +1,13 @@
+# Bibliotecas e modelos baixados localmente
+**/.python-deps/
+**/dados/nltk_data/
+.venv/
+venv/
+
+# Caches e arquivos temporários
+**/.matplotlib-cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
