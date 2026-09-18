@@ -1,0 +1,6 @@
+﻿indice_consulta,texto_consulta,indice_similar,texto_similar,similaridade_cosseno,tokens_compartilhados
+4794,@SouthwestAir you're my early frontrunner for best airline! #oscars2016,1411,@united you're my early frontrunner for best airline! #oscars2016,0.9701,"airline, best, early, for, frontrunner, my, youre"
+10480,@USAirways how is it that my flt to EWR was Cancelled Flightled yet flts to NYC from USAirways are still flying?,5202,@SouthwestAir you Cancelled Flightled my flight to EWR. Flt 3076. U also Cancelled Flightled flights to LGA. Yet @united is flying on time to both. WTH??,0.4721,"cancelled, ewr, flightled, flt, flying, is, my, to, yet"
+8067,@JetBlue what is going on with your BDL to DCA flights yesterday and today?! Why is every single one getting delayed?,7437,@JetBlue exactly why is my flight delayed? 599 BDL to DCA? Can't seem to get an answer,0.4093,"bdl, dca, delayed, is, jetblue, to, why"
+8880,"@JetBlue do they have to depart from Washington, D.C.??",8197,@JetBlue Washington DC (:,0.7125,"dc, jetblue, washington"
+8292,@JetBlue I can probably find some of them. Are the ticket #s on there?,8159,@JetBlue probably not anymore.,0.339,"jetblue, probably"

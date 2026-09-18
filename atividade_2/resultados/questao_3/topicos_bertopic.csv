@@ -1,0 +1,10 @@
+﻿topico,palavras_chave,pesos,quantidade_documentos
+-1,"to, united, the, usairways, americanair","0.052, 0.051, 0.044, 0.041, 0.041",5193
+0,"southwestair, to, the, my, for","0.072, 0.052, 0.040, 0.037, 0.037",4959
+1,"jetblue, to, the, on, flight","0.182, 0.050, 0.044, 0.036, 0.033",2214
+2,"united, to, you, the, flight","0.132, 0.047, 0.044, 0.043, 0.034",1217
+3,"virginamerica, to, the, you, flight","0.255, 0.045, 0.043, 0.042, 0.034",508
+4,"americanair, you, call, the, thanks","0.193, 0.062, 0.042, 0.041, 0.041",409
+5,"weather, americanair, usairways, the, snow","0.170, 0.071, 0.060, 0.057, 0.056",93
+6,"app, ios, iphone, the, mobile","0.339, 0.108, 0.083, 0.080, 0.077",28
+7,"tsa, precheck, my, pre, pass","0.327, 0.193, 0.174, 0.170, 0.143",19
