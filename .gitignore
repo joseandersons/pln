@@ -11,3 +11,6 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+
+# Modelos de embeddings baixados pela atividade 3 (~1,6 GB)
+**/modelos/
