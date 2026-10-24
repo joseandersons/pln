@@ -1,0 +1,18 @@
+﻿tipo,descricao,mencoes,entidades_distintas,tweets_com_o_tipo,tweets_com_2_ou_mais,pct_com_2_ou_mais
+ORG,"Companies, agencies, institutions, etc.",7085,1743,6065,824,13.586150041220115
+GPE,"Countries, cities, states",2202,440,1792,332,18.526785714285715
+DATE,Absolute or relative dates or periods,1861,351,1710,123,7.192982456140351
+TIME,Times smaller than a day,1776,329,1651,99,5.996365838885524
+PERSON,"People, including fictional",1381,733,1312,61,4.649390243902439
+CARDINAL,Numerals that do not fall under another type,480,46,454,19,4.185022026431718
+NORP,Nationalities or religious or political groups,146,49,135,9,6.666666666666667
+ORDINAL,"""first"", ""second"", etc.",310,7,296,6,2.027027027027027
+FAC,"Buildings, airports, highways, bridges, etc.",189,118,184,5,2.717391304347826
+PRODUCT,"Objects, vehicles, foods, etc. (not services)",250,124,246,3,1.2195121951219512
+LANGUAGE,Any named language,11,2,9,1,11.11111111111111
+LAW,Named documents made into laws.,4,2,4,0,0.0
+LOC,"Non-GPE locations, mountain ranges, bodies of water",128,35,127,0,0.0
+MONEY,"Monetary values, including unit",14,13,14,0,0.0
+PERCENT,"Percentage, including ""%""",1,1,1,0,0.0
+QUANTITY,"Measurements, as of weight or distance",25,21,25,0,0.0
+WORK_OF_ART,"Titles of books, songs, etc.",6,6,6,0,0.0

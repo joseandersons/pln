@@ -1,5 +1,12 @@
-pandas==3.0.6
-numpy==2.5.2
-scipy==1.18.1
-matplotlib==3.11.1
-scikit-learn==1.9.1
+# Ambiente de validação: Python 3.10 (64 bits).
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.9
+scikit-learn==1.7.2
+torch==2.14.1
+spacy==3.8.16
+networkx==3.4.2
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.3.0

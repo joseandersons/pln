@@ -1,0 +1,368 @@
+﻿entidade_1,entidade_2,peso
+dallas,austin,5
+dallas,la,4
+houston,austin,4
+dallas,jacksonville fl,4
+columbus,oakland,4
+charlotte,atlanta,3
+dallas,ohio,3
+charlotte,nc,3
+boston,seattle,3
+philly,orlando,3
+australia,philippines,3
+dallas,nashville,3
+boston,columbus,2
+houston,newark nj,2
+chicago,vegas,2
+sfo,san,2
+charlotte,fl,2
+chicago,omaha,2
+denver,las vegas,2
+sfo,houston,2
+charlotte,philly,2
+chicago,toledo,2
+houston,bogota,2
+miami,paris,2
+dfw,auh,2
+boston,houston,2
+newark,orlando,2
+la,dc,2
+charlotte,orlando,2
+portland,maine,2
+dfw,okc,2
+new york,puerto rico,2
+pittsburgh,fresno,2
+dfw,vegas,2
+chicago,ohare,2
+dallas,detroit,2
+dallas,columbus,2
+west palm beach,jetbluerocks,1
+sw,beijing,1
+dfw,ireland,1
+italy,naples,1
+italy,usnavy,1
+italy,milan,1
+alaska,arkansas,1
+sydney,united midland,1
+puerto vallarta,hou,1
+puerto vallarta,kick united,1
+el paso,dealsmay,1
+gainesville,tallahassee,1
+los angeles,hollywood,1
+lusaka,zambia,1
+san pedro,belize city,1
+mn,united united danroam,1
+nrt,bkk,1
+dallas,okc,1
+dallas,orlando,1
+dallas,san angelo,1
+dallas,sfo,1
+dallas,atlanta,1
+dallas,boston,1
+dallas,joplin,1
+dallas,cincy,1
+dallas,ft lauderdale,1
+dallas,miami,1
+dallas,texas,1
+dallas,san antonio,1
+boston,sanfrancisco,1
+boston,nyc,1
+boston,maine,1
+boston,portland,1
+boston,newark,1
+boston,luvswa,1
+boston,denver,1
+boston,oakland,1
+boston,tampa,1
+boston,erie,1
+boston,sfo,1
+boston,sjc,1
+boston,dc,1
+boston,portsmouth nh,1
+boston,daydelayed,1
+boston,san diego,1
+boston,philly,1
+boston,pittsburgh,1
+chicago,china,1
+chicago,frankfurt,1
+chicago,san francisco,1
+chicago,las vegas,1
+chicago,bangkok,1
+chicago,houston,1
+chicago,evansville,1
+chicago,san juan,1
+chicago,toronto,1
+chicago,sacramento,1
+chicago,la,1
+chicago,mexico city,1
+chicago,beijing,1
+chicago,sw,1
+chicago,philly,1
+chicago,korea,1
+chicago,dulles,1
+chicago,herndon va,1
+chicago,buffalo,1
+chicago,phoenix,1
+boston,la,1
+denver,vegas,1
+denver,dc,1
+denver,atlanta,1
+denver,san jose,1
+denver,portland,1
+denver,sydney,1
+denver,bwi,1
+denver,tampa,1
+denver,columbus,1
+denver,charlotte,1
+sfo,cabo san lucas,1
+sfo,pdx,1
+sfo,cleveland,1
+sfo,shanghai,1
+sfo,singapore,1
+sfo,newark nj,1
+sfo,amarillo,1
+sfo,burbank,1
+sfo,us,1
+sfo,las vegas,1
+charlotte,frankfurt,1
+charlotte,usa,1
+charlotte,wilmington,1
+charlotte,letsgoalready,1
+charlotte,syracuse,1
+charlotte,miami,1
+charlotte,philadelphia,1
+charlotte,lynchburg,1
+charlotte,london,1
+charlotte,seattle,1
+charlotte,la,1
+charlotte,rdu,1
+charlotte,birmingham,1
+newark,us,1
+newark,tel aviv,1
+newark,manchester,1
+newark,milan,1
+newark,frankfurt,1
+newark,minute united,1
+newark,dc,1
+newark,edinburgh,1
+newark,fort myers,1
+newark,glasgow,1
+newark,nashville,1
+houston,reno,1
+houston,são paulo,1
+houston,memphis,1
+houston,norway,1
+houston,honolulu,1
+houston,dulles,1
+houston,calgary,1
+houston,belize city,1
+houston,san pedro,1
+houston,amarillo,1
+houston,vegas,1
+houston,argentina,1
+houston,sao paulo,1
+houston,mexico,1
+houston,tucson,1
+houston,luvswa,1
+houston,new orleans,1
+philly,hawaii,1
+philly,fort lauderdale,1
+philly,germany,1
+philly,cancun,1
+philly,huntsville,1
+philly,lexington,1
+philly,nh,1
+philly,letsgoalready,1
+philly,lynchburg,1
+philly,phoenix,1
+philly,vegas,1
+philly,uk,1
+philly,south carolina,1
+philly,la,1
+philly,tampa,1
+miami,cincy,1
+miami,costa rica,1
+miami,london,1
+miami,philadelphia,1
+miami,nashville,1
+miami,ithaca ny,1
+vegas,sjc,1
+vegas,jamaica,1
+vegas,el paso,1
+vegas,tucson,1
+vegas,detroit,1
+vegas,beijing,1
+vegas,omaha,1
+vegas,sw,1
+vegas,orlando,1
+vegas,atlanta,1
+vegas,tn,1
+vegas,tricities,1
+atlanta,san fransisco,1
+atlanta,taiwan,1
+atlanta,canada,1
+atlanta,nashville,1
+atlanta,tn,1
+atlanta,tricities,1
+atlanta,nc,1
+atlanta,detroit,1
+nashville,las vegas,1
+nashville,us,1
+nashville,baltimore,1
+nashville,memphis,1
+nashville,birmingham,1
+nashville,london,1
+orlando,us,1
+orlando,aprilmay,1
+orlando,lasalle,1
+orlando,bwi,1
+orlando,hartford,1
+orlando,lynchburg,1
+orlando,san angelo,1
+us,california,1
+us,uk,1
+us,mexico,1
+us,london,1
+us,glasgow,1
+us,herndon,1
+us,virginia,1
+bwi,san diego,1
+bwi,las,1
+bwi,austin,1
+bwi,manchester,1
+bwi,fort lauderdale,1
+bwi,carolina area,1
+bwi,la,1
+las,pdx,1
+las,aus,1
+las,friendlyskies,1
+las,abq,1
+las,jfk,1
+las,phx,1
+las,patheticcx,1
+la,nyc,1
+la,santa barbara,1
+la,sydney,1
+la,united midland,1
+dfw,las vegas,1
+austin,emirates,1
+austin,fl,1
+austin,san diego,1
+ny,texas,1
+ny,yyz,1
+ny,washington,1
+ny,tampa,1
+dc,shanghai,1
+dc,edinburgh,1
+dc,st louis,1
+dc,rdu,1
+philadelphia,san diego,1
+philadelphia,salt lake,1
+philadelphia,fl,1
+seattle,nyc,1
+seattle,columbus,1
+seattle,ft lauderdale fl,1
+san diego,detroit,1
+san diego,san juan,1
+mexico,farmington,1
+uk,california,1
+uk,manchester,1
+dfw,jamaica,1
+columbus,phoenix,1
+columbus,ohio,1
+columbus,texas,1
+florida,detroit,1
+florida,daytona,1
+hawaii,america,1
+hawaii,sanfrancisco,1
+hawaii,canada,1
+phoenix,san jose,1
+phoenix,toledo,1
+ohare,helpmeplease,1
+ohare,stl,1
+ohare,san juan,1
+yyz,taiwan,1
+las vegas,paris,1
+nc,charleston,1
+nc,sc,1
+nc,greensboro,1
+london,dublin,1
+london,heathrow,1
+slc,san,1
+slc,roc,1
+texas,sandiego,1
+texas,ohio,1
+california,idaho,1
+california,cali,1
+paris,frankfurt,1
+paris,sju,1
+dulles,punta cana,1
+dulles,herndon va,1
+okc,sacramento,1
+dfw,nashville,1
+portland,perth,1
+san francisco,frankfurt,1
+san francisco,fort lauderdale,1
+dfw,newark,1
+america,russia,1
+dfw,slc,1
+st louis,airpt,1
+cleveland,bruins,1
+san juan,st thomas,1
+dfw,burbank,1
+sju,sxm,1
+nyc,norfolk va,1
+nyc,barbados,1
+washington,nantucket,1
+charleston,sc,1
+oakland,sna,1
+bogota,colombia,1
+bogota,melbourne australia,1
+bahamas,nola,1
+omaha,az,1
+omaha,beijing,1
+omaha,sw,1
+phx,sw,1
+phx,arizona,1
+baltimore,greenville,1
+greenville,sc,1
+cuba,barbados,1
+honolulu,los angeles,1
+sacramento,minneapolis,1
+aruba,hou,1
+aruba,puerto vallarta,1
+louisville,ft lauderdale,1
+louisville,ky,1
+louisville,laguardia,1
+kevolt,sozldj,1
+west palm beach,charlotte fl,1
+st lucia,antigua,1
+laguardia,ky,1
+laguardia,louisville ky,1
+guam,saipan,1
+kuala lumpur,malaysia,1
+colombia,melbourne australia,1
+lubbock,midland,1
+naples,usnavy,1
+daytona beach,new york albany,1
+tn,tricities,1
+herndon,virginia,1
+cuzco,lima,1
+delhi,jaipur,1
+dfw,hou,1
+dfw,sacramento,1
+dfw,el paso,1
+dallas,emirates,1
+dallas,dc,1
+dallas,houston,1
+dallas,lubbock,1
+dallas,midland,1
+dallas,seattle,1
+dallas,st louis,1
+dallas,mccarran vegas,1
+dallas,el paso,1
+dallas,vegas,1
+dallas,fl,1
+barbados,barbados nyc,1
+dallas,phoenix,1
+dfw,nc,1

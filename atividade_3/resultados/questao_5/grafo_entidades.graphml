@@ -1,0 +1,2428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="frequencia" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="dfw">
+      <data key="d0">119</data>
+    </node>
+    <node id="dallas">
+      <data key="d0">78</data>
+    </node>
+    <node id="boston">
+      <data key="d0">74</data>
+    </node>
+    <node id="chicago">
+      <data key="d0">73</data>
+    </node>
+    <node id="denver">
+      <data key="d0">67</data>
+    </node>
+    <node id="sfo">
+      <data key="d0">63</data>
+    </node>
+    <node id="charlotte">
+      <data key="d0">56</data>
+    </node>
+    <node id="newark">
+      <data key="d0">50</data>
+    </node>
+    <node id="houston">
+      <data key="d0">49</data>
+    </node>
+    <node id="philly">
+      <data key="d0">48</data>
+    </node>
+    <node id="miami">
+      <data key="d0">46</data>
+    </node>
+    <node id="vegas">
+      <data key="d0">35</data>
+    </node>
+    <node id="atlanta">
+      <data key="d0">34</data>
+    </node>
+    <node id="nashville">
+      <data key="d0">34</data>
+    </node>
+    <node id="orlando">
+      <data key="d0">33</data>
+    </node>
+    <node id="us">
+      <data key="d0">32</data>
+    </node>
+    <node id="bwi">
+      <data key="d0">28</data>
+    </node>
+    <node id="las">
+      <data key="d0">24</data>
+    </node>
+    <node id="la">
+      <data key="d0">23</data>
+    </node>
+    <node id="austin">
+      <data key="d0">22</data>
+    </node>
+    <node id="ny">
+      <data key="d0">21</data>
+    </node>
+    <node id="dc">
+      <data key="d0">20</data>
+    </node>
+    <node id="philadelphia">
+      <data key="d0">20</data>
+    </node>
+    <node id="seattle">
+      <data key="d0">18</data>
+    </node>
+    <node id="san diego">
+      <data key="d0">18</data>
+    </node>
+    <node id="mexico">
+      <data key="d0">18</data>
+    </node>
+    <node id="uk">
+      <data key="d0">17</data>
+    </node>
+    <node id="fl">
+      <data key="d0">17</data>
+    </node>
+    <node id="columbus">
+      <data key="d0">16</data>
+    </node>
+    <node id="florida">
+      <data key="d0">15</data>
+    </node>
+    <node id="hawaii">
+      <data key="d0">14</data>
+    </node>
+    <node id="phoenix">
+      <data key="d0">13</data>
+    </node>
+    <node id="ohare">
+      <data key="d0">13</data>
+    </node>
+    <node id="yyz">
+      <data key="d0">13</data>
+    </node>
+    <node id="las vegas">
+      <data key="d0">13</data>
+    </node>
+    <node id="nc">
+      <data key="d0">13</data>
+    </node>
+    <node id="london">
+      <data key="d0">12</data>
+    </node>
+    <node id="tampa">
+      <data key="d0">12</data>
+    </node>
+    <node id="memphis">
+      <data key="d0">12</data>
+    </node>
+    <node id="slc">
+      <data key="d0">12</data>
+    </node>
+    <node id="texas">
+      <data key="d0">11</data>
+    </node>
+    <node id="california">
+      <data key="d0">11</data>
+    </node>
+    <node id="cancun">
+      <data key="d0">11</data>
+    </node>
+    <node id="paris">
+      <data key="d0">10</data>
+    </node>
+    <node id="dulles">
+      <data key="d0">10</data>
+    </node>
+    <node id="okc">
+      <data key="d0">9</data>
+    </node>
+    <node id="portland">
+      <data key="d0">9</data>
+    </node>
+    <node id="waterbury">
+      <data key="d0">9</data>
+    </node>
+    <node id="san francisco">
+      <data key="d0">8</data>
+    </node>
+    <node id="rdu">
+      <data key="d0">8</data>
+    </node>
+    <node id="australia">
+      <data key="d0">7</data>
+    </node>
+    <node id="america">
+      <data key="d0">7</data>
+    </node>
+    <node id="new york">
+      <data key="d0">7</data>
+    </node>
+    <node id="abq">
+      <data key="d0">7</data>
+    </node>
+    <node id="st louis">
+      <data key="d0">7</data>
+    </node>
+    <node id="cleveland">
+      <data key="d0">7</data>
+    </node>
+    <node id="san juan">
+      <data key="d0">7</data>
+    </node>
+    <node id="puerto rico">
+      <data key="d0">7</data>
+    </node>
+    <node id="pittsburgh">
+      <data key="d0">7</data>
+    </node>
+    <node id="sju">
+      <data key="d0">7</data>
+    </node>
+    <node id="nyc">
+      <data key="d0">6</data>
+    </node>
+    <node id="smh">
+      <data key="d0">6</data>
+    </node>
+    <node id="pdx">
+      <data key="d0">6</data>
+    </node>
+    <node id="san">
+      <data key="d0">6</data>
+    </node>
+    <node id="san jose">
+      <data key="d0">6</data>
+    </node>
+    <node id="washington">
+      <data key="d0">6</data>
+    </node>
+    <node id="frankfurt">
+      <data key="d0">6</data>
+    </node>
+    <node id="detroit">
+      <data key="d0">6</data>
+    </node>
+    <node id="stl">
+      <data key="d0">6</data>
+    </node>
+    <node id="dm">
+      <data key="d0">6</data>
+    </node>
+    <node id="birmingham">
+      <data key="d0">6</data>
+    </node>
+    <node id="fort lauderdale">
+      <data key="d0">6</data>
+    </node>
+    <node id="charleston">
+      <data key="d0">6</data>
+    </node>
+    <node id="oakland">
+      <data key="d0">6</data>
+    </node>
+    <node id="cali">
+      <data key="d0">6</data>
+    </node>
+    <node id="costa rica">
+      <data key="d0">6</data>
+    </node>
+    <node id="aus">
+      <data key="d0">5</data>
+    </node>
+    <node id="bogota">
+      <data key="d0">5</data>
+    </node>
+    <node id="newark nj">
+      <data key="d0">5</data>
+    </node>
+    <node id="new orleans">
+      <data key="d0">5</data>
+    </node>
+    <node id="bahamas">
+      <data key="d0">5</data>
+    </node>
+    <node id="omaha">
+      <data key="d0">5</data>
+    </node>
+    <node id="phx">
+      <data key="d0">5</data>
+    </node>
+    <node id="ohio">
+      <data key="d0">5</data>
+    </node>
+    <node id="jamaica">
+      <data key="d0">5</data>
+    </node>
+    <node id="baltimore">
+      <data key="d0">5</data>
+    </node>
+    <node id="greenville">
+      <data key="d0">5</data>
+    </node>
+    <node id="utah">
+      <data key="d0">5</data>
+    </node>
+    <node id="cuba">
+      <data key="d0">5</data>
+    </node>
+    <node id="va">
+      <data key="d0">4</data>
+    </node>
+    <node id="sjc">
+      <data key="d0">4</data>
+    </node>
+    <node id="china">
+      <data key="d0">4</data>
+    </node>
+    <node id="tel aviv">
+      <data key="d0">4</data>
+    </node>
+    <node id="singapore">
+      <data key="d0">4</data>
+    </node>
+    <node id="toronto">
+      <data key="d0">4</data>
+    </node>
+    <node id="tucson">
+      <data key="d0">4</data>
+    </node>
+    <node id="honolulu">
+      <data key="d0">4</data>
+    </node>
+    <node id="sacramento">
+      <data key="d0">4</data>
+    </node>
+    <node id="albany">
+      <data key="d0">4</data>
+    </node>
+    <node id="canada">
+      <data key="d0">4</data>
+    </node>
+    <node id="calgary">
+      <data key="d0">4</data>
+    </node>
+    <node id="roc">
+      <data key="d0">4</data>
+    </node>
+    <node id="nola">
+      <data key="d0">4</data>
+    </node>
+    <node id="logan">
+      <data key="d0">4</data>
+    </node>
+    <node id="nj">
+      <data key="d0">4</data>
+    </node>
+    <node id="jacksonville">
+      <data key="d0">4</data>
+    </node>
+    <node id="san antonio">
+      <data key="d0">4</data>
+    </node>
+    <node id="arizona">
+      <data key="d0">4</data>
+    </node>
+    <node id="aruba">
+      <data key="d0">4</data>
+    </node>
+    <node id="az">
+      <data key="d0">4</data>
+    </node>
+    <node id="louisville">
+      <data key="d0">4</data>
+    </node>
+    <node id="jfk">
+      <data key="d0">4</data>
+    </node>
+    <node id="barbados">
+      <data key="d0">4</data>
+    </node>
+    <node id="italy">
+      <data key="d0">4</data>
+    </node>
+    <node id="yuma">
+      <data key="d0">4</data>
+    </node>
+    <node id="jacksonville fl">
+      <data key="d0">4</data>
+    </node>
+    <node id="alaska">
+      <data key="d0">4</data>
+    </node>
+    <node id="cmh">
+      <data key="d0">3</data>
+    </node>
+    <node id="sanfrancisco">
+      <data key="d0">3</data>
+    </node>
+    <node id="minneapolis">
+      <data key="d0">3</data>
+    </node>
+    <node id="manchester">
+      <data key="d0">3</data>
+    </node>
+    <node id="ethiopia">
+      <data key="d0">3</data>
+    </node>
+    <node id="dublin">
+      <data key="d0">3</data>
+    </node>
+    <node id="milan">
+      <data key="d0">3</data>
+    </node>
+    <node id="boise">
+      <data key="d0">3</data>
+    </node>
+    <node id="philippines">
+      <data key="d0">3</data>
+    </node>
+    <node id="argentina">
+      <data key="d0">3</data>
+    </node>
+    <node id="sydney">
+      <data key="d0">3</data>
+    </node>
+    <node id="hartford">
+      <data key="d0">3</data>
+    </node>
+    <node id="puerto vallarta">
+      <data key="d0">3</data>
+    </node>
+    <node id="raleigh">
+      <data key="d0">3</data>
+    </node>
+    <node id="el paso">
+      <data key="d0">3</data>
+    </node>
+    <node id="kc">
+      <data key="d0">3</data>
+    </node>
+    <node id="indianapolis">
+      <data key="d0">3</data>
+    </node>
+    <node id="hou">
+      <data key="d0">3</data>
+    </node>
+    <node id="ft lauderdale">
+      <data key="d0">3</data>
+    </node>
+    <node id="toledo">
+      <data key="d0">3</data>
+    </node>
+    <node id="haiti">
+      <data key="d0">3</data>
+    </node>
+    <node id="savannah">
+      <data key="d0">3</data>
+    </node>
+    <node id="cincy">
+      <data key="d0">3</data>
+    </node>
+    <node id="gainesville">
+      <data key="d0">3</data>
+    </node>
+    <node id="fresno">
+      <data key="d0">3</data>
+    </node>
+    <node id="los angeles">
+      <data key="d0">2</data>
+    </node>
+    <node id="usa">
+      <data key="d0">2</data>
+    </node>
+    <node id="sandiego">
+      <data key="d0">2</data>
+    </node>
+    <node id="lusaka">
+      <data key="d0">2</data>
+    </node>
+    <node id="madrid">
+      <data key="d0">2</data>
+    </node>
+    <node id="reno">
+      <data key="d0">2</data>
+    </node>
+    <node id="united">
+      <data key="d0">2</data>
+    </node>
+    <node id="salt lake">
+      <data key="d0">2</data>
+    </node>
+    <node id="shanghai">
+      <data key="d0">2</data>
+    </node>
+    <node id="taiwan">
+      <data key="d0">2</data>
+    </node>
+    <node id="são paulo">
+      <data key="d0">2</data>
+    </node>
+    <node id="norfolk">
+      <data key="d0">2</data>
+    </node>
+    <node id="maine">
+      <data key="d0">2</data>
+    </node>
+    <node id="edinburgh">
+      <data key="d0">2</data>
+    </node>
+    <node id="bangkok">
+      <data key="d0">2</data>
+    </node>
+    <node id="zurich">
+      <data key="d0">2</data>
+    </node>
+    <node id="belize">
+      <data key="d0">2</data>
+    </node>
+    <node id="san pedro">
+      <data key="d0">2</data>
+    </node>
+    <node id="mexico city">
+      <data key="d0">2</data>
+    </node>
+    <node id="tokyo">
+      <data key="d0">2</data>
+    </node>
+    <node id="mn">
+      <data key="d0">2</data>
+    </node>
+    <node id="perth">
+      <data key="d0">2</data>
+    </node>
+    <node id="burbank">
+      <data key="d0">2</data>
+    </node>
+    <node id="heathrow">
+      <data key="d0">2</data>
+    </node>
+    <node id="nrt">
+      <data key="d0">2</data>
+    </node>
+    <node id="india">
+      <data key="d0">2</data>
+    </node>
+    <node id="amsterdam">
+      <data key="d0">2</data>
+    </node>
+    <node id="glasgow">
+      <data key="d0">2</data>
+    </node>
+    <node id="sw">
+      <data key="d0">2</data>
+    </node>
+    <node id="huntsville">
+      <data key="d0">2</data>
+    </node>
+    <node id="arkansas">
+      <data key="d0">2</data>
+    </node>
+    <node id="provo">
+      <data key="d0">2</data>
+    </node>
+    <node id="wheelsup">
+      <data key="d0">2</data>
+    </node>
+    <node id="savannah ga">
+      <data key="d0">2</data>
+    </node>
+    <node id="knoxville">
+      <data key="d0">2</data>
+    </node>
+    <node id="ireland">
+      <data key="d0">2</data>
+    </node>
+    <node id="nh">
+      <data key="d0">2</data>
+    </node>
+    <node id="sc">
+      <data key="d0">2</data>
+    </node>
+    <node id="nassau">
+      <data key="d0">2</data>
+    </node>
+    <node id="syracuse">
+      <data key="d0">2</data>
+    </node>
+    <node id="newburgh">
+      <data key="d0">2</data>
+    </node>
+    <node id="west palm beach">
+      <data key="d0">2</data>
+    </node>
+    <node id="sxm">
+      <data key="d0">2</data>
+    </node>
+    <node id="st lucia">
+      <data key="d0">2</data>
+    </node>
+    <node id="buffalo">
+      <data key="d0">2</data>
+    </node>
+    <node id="washington dc">
+      <data key="d0">2</data>
+    </node>
+    <node id="iowa">
+      <data key="d0">2</data>
+    </node>
+    <node id="russia">
+      <data key="d0">2</data>
+    </node>
+    <node id="lexington">
+      <data key="d0">2</data>
+    </node>
+    <node id="st thomas">
+      <data key="d0">2</data>
+    </node>
+    <node id="des moines">
+      <data key="d0">2</data>
+    </node>
+    <node id="myrtle beach">
+      <data key="d0">2</data>
+    </node>
+    <node id="san miguel de allende">
+      <data key="d0">2</data>
+    </node>
+    <node id="killeen tx">
+      <data key="d0">2</data>
+    </node>
+    <node id="wichita">
+      <data key="d0">2</data>
+    </node>
+    <node id="auh">
+      <data key="d0">2</data>
+    </node>
+    <node id="france">
+      <data key="d0">2</data>
+    </node>
+    <node id="cincinnati">
+      <data key="d0">2</data>
+    </node>
+    <node id="laguardia">
+      <data key="d0">2</data>
+    </node>
+    <node id="hollywood">
+      <data key="d0">1</data>
+    </node>
+    <node id="cabo san lucas">
+      <data key="d0">1</data>
+    </node>
+    <node id="emirates">
+      <data key="d0">1</data>
+    </node>
+    <node id="santa cruz">
+      <data key="d0">1</data>
+    </node>
+    <node id="callah">
+      <data key="d0">1</data>
+    </node>
+    <node id="dtw">
+      <data key="d0">1</data>
+    </node>
+    <node id="sytycd">
+      <data key="d0">1</data>
+    </node>
+    <node id="httptcofgrbpazsix">
+      <data key="d0">1</data>
+    </node>
+    <node id="miami aeroport">
+      <data key="d0">1</data>
+    </node>
+    <node id="guam">
+      <data key="d0">1</data>
+    </node>
+    <node id="saipan">
+      <data key="d0">1</data>
+    </node>
+    <node id="iceland">
+      <data key="d0">1</data>
+    </node>
+    <node id="jburg">
+      <data key="d0">1</data>
+    </node>
+    <node id="lindaswc united">
+      <data key="d0">1</data>
+    </node>
+    <node id="kuala lumpur">
+      <data key="d0">1</data>
+    </node>
+    <node id="malaysia">
+      <data key="d0">1</data>
+    </node>
+    <node id="flights delhi">
+      <data key="d0">1</data>
+    </node>
+    <node id="zambia">
+      <data key="d0">1</data>
+    </node>
+    <node id="vancouver">
+      <data key="d0">1</data>
+    </node>
+    <node id="friendlyskies">
+      <data key="d0">1</data>
+    </node>
+    <node id="helpmeplease">
+      <data key="d0">1</data>
+    </node>
+    <node id="goldsspousaldiscriminationangry">
+      <data key="d0">1</data>
+    </node>
+    <node id="nt u reserve">
+      <data key="d0">1</data>
+    </node>
+    <node id="mex nrt dates tbd">
+      <data key="d0">1</data>
+    </node>
+    <node id="united states">
+      <data key="d0">1</data>
+    </node>
+    <node id="ua chicago">
+      <data key="d0">1</data>
+    </node>
+    <node id="tonysimsmma">
+      <data key="d0">1</data>
+    </node>
+    <node id="del">
+      <data key="d0">1</data>
+    </node>
+    <node id="brussels">
+      <data key="d0">1</data>
+    </node>
+    <node id="venezuela">
+      <data key="d0">1</data>
+    </node>
+    <node id="new jersey">
+      <data key="d0">1</data>
+    </node>
+    <node id="thailand">
+      <data key="d0">1</data>
+    </node>
+    <node id="sfonew york rt">
+      <data key="d0">1</data>
+    </node>
+    <node id="colombia">
+      <data key="d0">1</data>
+    </node>
+    <node id="melbourne australia">
+      <data key="d0">1</data>
+    </node>
+    <node id="clarita">
+      <data key="d0">1</data>
+    </node>
+    <node id="minute united">
+      <data key="d0">1</data>
+    </node>
+    <node id="santa fe">
+      <data key="d0">1</data>
+    </node>
+    <node id="san fransico">
+      <data key="d0">1</data>
+    </node>
+    <node id="jackson wyoming">
+      <data key="d0">1</data>
+    </node>
+    <node id="japan">
+      <data key="d0">1</data>
+    </node>
+    <node id="kauai">
+      <data key="d0">1</data>
+    </node>
+    <node id="norway">
+      <data key="d0">1</data>
+    </node>
+    <node id="united hello">
+      <data key="d0">1</data>
+    </node>
+    <node id="ottawa">
+      <data key="d0">1</data>
+    </node>
+    <node id="fra">
+      <data key="d0">1</data>
+    </node>
+    <node id="munich">
+      <data key="d0">1</data>
+    </node>
+    <node id="mpls">
+      <data key="d0">1</data>
+    </node>
+    <node id="belize city">
+      <data key="d0">1</data>
+    </node>
+    <node id="hilo">
+      <data key="d0">1</data>
+    </node>
+    <node id="geneva">
+      <data key="d0">1</data>
+    </node>
+    <node id="bosnia">
+      <data key="d0">1</data>
+    </node>
+    <node id="new delhi">
+      <data key="d0">1</data>
+    </node>
+    <node id="montana">
+      <data key="d0">1</data>
+    </node>
+    <node id="rt united antkneee">
+      <data key="d0">1</data>
+    </node>
+    <node id="tpallini">
+      <data key="d0">1</data>
+    </node>
+    <node id="ithica">
+      <data key="d0">1</data>
+    </node>
+    <node id="amarillo">
+      <data key="d0">1</data>
+    </node>
+    <node id="evansville">
+      <data key="d0">1</data>
+    </node>
+    <node id="newarktiredandwanttogohome">
+      <data key="d0">1</data>
+    </node>
+    <node id="united united danroam">
+      <data key="d0">1</data>
+    </node>
+    <node id="seahou">
+      <data key="d0">1</data>
+    </node>
+    <node id="lagos nigeria">
+      <data key="d0">1</data>
+    </node>
+    <node id="idaho">
+      <data key="d0">1</data>
+    </node>
+    <node id="sbn">
+      <data key="d0">1</data>
+    </node>
+    <node id="schiphol">
+      <data key="d0">1</data>
+    </node>
+    <node id="santa barbara">
+      <data key="d0">1</data>
+    </node>
+    <node id="sao paulo">
+      <data key="d0">1</data>
+    </node>
+    <node id="jt">
+      <data key="d0">1</data>
+    </node>
+    <node id="punta cana">
+      <data key="d0">1</data>
+    </node>
+    <node id="santa monica">
+      <data key="d0">1</data>
+    </node>
+    <node id="fort worth">
+      <data key="d0">1</data>
+    </node>
+    <node id="auckland">
+      <data key="d0">1</data>
+    </node>
+    <node id="istanbul">
+      <data key="d0">1</data>
+    </node>
+    <node id="united midland">
+      <data key="d0">1</data>
+    </node>
+    <node id="bkk">
+      <data key="d0">1</data>
+    </node>
+    <node id="winnipeg">
+      <data key="d0">1</data>
+    </node>
+    <node id="shannon">
+      <data key="d0">1</data>
+    </node>
+    <node id="anticonsumer">
+      <data key="d0">1</data>
+    </node>
+    <node id="chicagos">
+      <data key="d0">1</data>
+    </node>
+    <node id="troy">
+      <data key="d0">1</data>
+    </node>
+    <node id="buytransfer">
+      <data key="d0">1</data>
+    </node>
+    <node id="pittsburg">
+      <data key="d0">1</data>
+    </node>
+    <node id="fort myers">
+      <data key="d0">1</data>
+    </node>
+    <node id="farmington">
+      <data key="d0">1</data>
+    </node>
+    <node id="marriott">
+      <data key="d0">1</data>
+    </node>
+    <node id="bwi area">
+      <data key="d0">1</data>
+    </node>
+    <node id="cabo">
+      <data key="d0">1</data>
+    </node>
+    <node id="lubbock">
+      <data key="d0">1</data>
+    </node>
+    <node id="midland">
+      <data key="d0">1</data>
+    </node>
+    <node id="luvswa">
+      <data key="d0">1</data>
+    </node>
+    <node id="aprilmay">
+      <data key="d0">1</data>
+    </node>
+    <node id="bellagio">
+      <data key="d0">1</data>
+    </node>
+    <node id="la slc">
+      <data key="d0">1</data>
+    </node>
+    <node id="las vegas 😉">
+      <data key="d0">1</data>
+    </node>
+    <node id="las bna">
+      <data key="d0">1</data>
+    </node>
+    <node id="georgia">
+      <data key="d0">1</data>
+    </node>
+    <node id="lasalle">
+      <data key="d0">1</data>
+    </node>
+    <node id="san fransisco">
+      <data key="d0">1</data>
+    </node>
+    <node id="hotlanta">
+      <data key="d0">1</data>
+    </node>
+    <node id="nev asap">
+      <data key="d0">1</data>
+    </node>
+    <node id="mccarran vegas">
+      <data key="d0">1</data>
+    </node>
+    <node id="norfolk va">
+      <data key="d0">1</data>
+    </node>
+    <node id="airpt">
+      <data key="d0">1</data>
+    </node>
+    <node id="defcon">
+      <data key="d0">1</data>
+    </node>
+    <node id="fairfax">
+      <data key="d0">1</data>
+    </node>
+    <node id="stlouis">
+      <data key="d0">1</data>
+    </node>
+    <node id="gogo">
+      <data key="d0">1</data>
+    </node>
+    <node id="carolina area">
+      <data key="d0">1</data>
+    </node>
+    <node id="milwaukee">
+      <data key="d0">1</data>
+    </node>
+    <node id="daytona">
+      <data key="d0">1</data>
+    </node>
+    <node id="kick united">
+      <data key="d0">1</data>
+    </node>
+    <node id="beijing">
+      <data key="d0">1</data>
+    </node>
+    <node id="sna">
+      <data key="d0">1</data>
+    </node>
+    <node id="httptcocyoonzftdc">
+      <data key="d0">1</data>
+    </node>
+    <node id="fla">
+      <data key="d0">1</data>
+    </node>
+    <node id="aus aus">
+      <data key="d0">1</data>
+    </node>
+    <node id="fort lauderdale fll">
+      <data key="d0">1</data>
+    </node>
+    <node id="dealsmay">
+      <data key="d0">1</data>
+    </node>
+    <node id="tulsa">
+      <data key="d0">1</data>
+    </node>
+    <node id="bham">
+      <data key="d0">1</data>
+    </node>
+    <node id="guyana">
+      <data key="d0">1</data>
+    </node>
+    <node id="vieques">
+      <data key="d0">1</data>
+    </node>
+    <node id="miami 😉">
+      <data key="d0">1</data>
+    </node>
+    <node id="long beach">
+      <data key="d0">1</data>
+    </node>
+    <node id="🚶">
+      <data key="d0">1</data>
+    </node>
+    <node id="laurieameacham">
+      <data key="d0">1</data>
+    </node>
+    <node id="nantucket">
+      <data key="d0">1</data>
+    </node>
+    <node id="san juan monsoon">
+      <data key="d0">1</data>
+    </node>
+    <node id="maimi">
+      <data key="d0">1</data>
+    </node>
+    <node id="santo domingo">
+      <data key="d0">1</data>
+    </node>
+    <node id="jetbluerocks">
+      <data key="d0">1</data>
+    </node>
+    <node id="cartagena">
+      <data key="d0">1</data>
+    </node>
+    <node id="newburg">
+      <data key="d0">1</data>
+    </node>
+    <node id="erie">
+      <data key="d0">1</data>
+    </node>
+    <node id="virgin america">
+      <data key="d0">1</data>
+    </node>
+    <node id="tfgreenairport">
+      <data key="d0">1</data>
+    </node>
+    <node id="dubai">
+      <data key="d0">1</data>
+    </node>
+    <node id="noplacelikehome">
+      <data key="d0">1</data>
+    </node>
+    <node id="palm beach">
+      <data key="d0">1</data>
+    </node>
+    <node id="st maarten">
+      <data key="d0">1</data>
+    </node>
+    <node id="jax">
+      <data key="d0">1</data>
+    </node>
+    <node id="johnnosta">
+      <data key="d0">1</data>
+    </node>
+    <node id="fort lauderdalebogotá">
+      <data key="d0">1</data>
+    </node>
+    <node id="lowdown">
+      <data key="d0">1</data>
+    </node>
+    <node id="⛄">
+      <data key="d0">1</data>
+    </node>
+    <node id="antigua">
+      <data key="d0">1</data>
+    </node>
+    <node id="negativedegrees buffalo snowwillnevermelt">
+      <data key="d0">1</data>
+    </node>
+    <node id="wylie">
+      <data key="d0">1</data>
+    </node>
+    <node id="workhard playsoon">
+      <data key="d0">1</data>
+    </node>
+    <node id="cartago">
+      <data key="d0">1</data>
+    </node>
+    <node id="anku">
+      <data key="d0">1</data>
+    </node>
+    <node id="avgeek warmweather">
+      <data key="d0">1</data>
+    </node>
+    <node id="bruins">
+      <data key="d0">1</data>
+    </node>
+    <node id="nosupport">
+      <data key="d0">1</data>
+    </node>
+    <node id="firststari">
+      <data key="d0">1</data>
+    </node>
+    <node id="portsmouth nh">
+      <data key="d0">1</data>
+    </node>
+    <node id="naples">
+      <data key="d0">1</data>
+    </node>
+    <node id="usnavy">
+      <data key="d0">1</data>
+    </node>
+    <node id="seatac">
+      <data key="d0">1</data>
+    </node>
+    <node id="nogood">
+      <data key="d0">1</data>
+    </node>
+    <node id="daydelayed">
+      <data key="d0">1</data>
+    </node>
+    <node id="oahu">
+      <data key="d0">1</data>
+    </node>
+    <node id="nzherald">
+      <data key="d0">1</data>
+    </node>
+    <node id="leeds">
+      <data key="d0">1</data>
+    </node>
+    <node id="daytona beach">
+      <data key="d0">1</data>
+    </node>
+    <node id="new york albany">
+      <data key="d0">1</data>
+    </node>
+    <node id="vt">
+      <data key="d0">1</data>
+    </node>
+    <node id="salt lake city">
+      <data key="d0">1</data>
+    </node>
+    <node id="germany">
+      <data key="d0">1</data>
+    </node>
+    <node id="albany ny">
+      <data key="d0">1</data>
+    </node>
+    <node id="carolinas">
+      <data key="d0">1</data>
+    </node>
+    <node id="spain">
+      <data key="d0">1</data>
+    </node>
+    <node id="israel">
+      <data key="d0">1</data>
+    </node>
+    <node id="wilmington">
+      <data key="d0">1</data>
+    </node>
+    <node id="bora bora">
+      <data key="d0">1</data>
+    </node>
+    <node id="tallahassee">
+      <data key="d0">1</data>
+    </node>
+    <node id="elmira">
+      <data key="d0">1</data>
+    </node>
+    <node id="letsgoalready">
+      <data key="d0">1</data>
+    </node>
+    <node id="httptcovskxyamnom">
+      <data key="d0">1</data>
+    </node>
+    <node id="newamericanairline">
+      <data key="d0">1</data>
+    </node>
+    <node id="korea">
+      <data key="d0">1</data>
+    </node>
+    <node id="north carolina">
+      <data key="d0">1</data>
+    </node>
+    <node id="lynchburg">
+      <data key="d0">1</data>
+    </node>
+    <node id="problemss">
+      <data key="d0">1</data>
+    </node>
+    <node id="ontario">
+      <data key="d0">1</data>
+    </node>
+    <node id="tx">
+      <data key="d0">1</data>
+    </node>
+    <node id="whereismybag">
+      <data key="d0">1</data>
+    </node>
+    <node id="brazil">
+      <data key="d0">1</data>
+    </node>
+    <node id="phil pa">
+      <data key="d0">1</data>
+    </node>
+    <node id="tn">
+      <data key="d0">1</data>
+    </node>
+    <node id="tricities">
+      <data key="d0">1</data>
+    </node>
+    <node id="greensboro">
+      <data key="d0">1</data>
+    </node>
+    <node id="gatwick charlotte">
+      <data key="d0">1</data>
+    </node>
+    <node id="south carolina">
+      <data key="d0">1</data>
+    </node>
+    <node id="la bc">
+      <data key="d0">1</data>
+    </node>
+    <node id="charlotte nc">
+      <data key="d0">1</data>
+    </node>
+    <node id="notmyfault">
+      <data key="d0">1</data>
+    </node>
+    <node id="hungary">
+      <data key="d0">1</data>
+    </node>
+    <node id="foru">
+      <data key="d0">1</data>
+    </node>
+    <node id="charlotte fl">
+      <data key="d0">1</data>
+    </node>
+    <node id="spk">
+      <data key="d0">1</data>
+    </node>
+    <node id="herndon">
+      <data key="d0">1</data>
+    </node>
+    <node id="virginia">
+      <data key="d0">1</data>
+    </node>
+    <node id="herndon va">
+      <data key="d0">1</data>
+    </node>
+    <node id="pensacola fl">
+      <data key="d0">1</data>
+    </node>
+    <node id="cuzco">
+      <data key="d0">1</data>
+    </node>
+    <node id="lima">
+      <data key="d0">1</data>
+    </node>
+    <node id="miami delta">
+      <data key="d0">1</data>
+    </node>
+    <node id="ecuador">
+      <data key="d0">1</data>
+    </node>
+    <node id="brownsville">
+      <data key="d0">1</data>
+    </node>
+    <node id="americanair chicago">
+      <data key="d0">1</data>
+    </node>
+    <node id="carlton">
+      <data key="d0">1</data>
+    </node>
+    <node id="san juan es mi">
+      <data key="d0">1</data>
+    </node>
+    <node id="panam">
+      <data key="d0">1</data>
+    </node>
+    <node id="oregon">
+      <data key="d0">1</data>
+    </node>
+    <node id="bdsm">
+      <data key="d0">1</data>
+    </node>
+    <node id="san angelo">
+      <data key="d0">1</data>
+    </node>
+    <node id="montrose">
+      <data key="d0">1</data>
+    </node>
+    <node id="brooklyn">
+      <data key="d0">1</data>
+    </node>
+    <node id="delhi">
+      <data key="d0">1</data>
+    </node>
+    <node id="jaipur">
+      <data key="d0">1</data>
+    </node>
+    <node id="barbados nyc">
+      <data key="d0">1</data>
+    </node>
+    <node id="iberia">
+      <data key="d0">1</data>
+    </node>
+    <node id="americanair">
+      <data key="d0">1</data>
+    </node>
+    <node id="zurichnew york">
+      <data key="d0">1</data>
+    </node>
+    <node id="ithaca ny">
+      <data key="d0">1</data>
+    </node>
+    <node id="new york city">
+      <data key="d0">1</data>
+    </node>
+    <node id="kevolt">
+      <data key="d0">1</data>
+    </node>
+    <node id="sozldj">
+      <data key="d0">1</data>
+    </node>
+    <node id="nosecuritylines">
+      <data key="d0">1</data>
+    </node>
+    <node id="alabama">
+      <data key="d0">1</data>
+    </node>
+    <node id="joplin">
+      <data key="d0">1</data>
+    </node>
+    <node id="patheticcx">
+      <data key="d0">1</data>
+    </node>
+    <node id="st john usvi">
+      <data key="d0">1</data>
+    </node>
+    <node id="ft lauderdale fl">
+      <data key="d0">1</data>
+    </node>
+    <node id="guatemala">
+      <data key="d0">1</data>
+    </node>
+    <node id="ky">
+      <data key="d0">1</data>
+    </node>
+    <node id="louisville ky">
+      <data key="d0">1</data>
+    </node>
+    <edge source="dfw" target="okc">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dfw" target="sacramento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="vegas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dfw" target="ireland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="nc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="auh">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dfw" target="las vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="jamaica">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="nashville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="newark">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="slc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="burbank">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="hou">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dfw" target="el paso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="seattle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="la">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="dallas" target="austin">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="dallas" target="emirates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="dc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="houston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="lubbock">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="midland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="nashville">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="dallas" target="st louis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="mccarran vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="el paso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="fl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="columbus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dallas" target="phoenix">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="ohio">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="dallas" target="jacksonville fl">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="dallas" target="okc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="detroit">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dallas" target="orlando">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="san angelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="sfo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="atlanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="boston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="joplin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="cincy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="ft lauderdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="miami">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="texas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dallas" target="san antonio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="la">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="sanfrancisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="nyc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="seattle">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="boston" target="maine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="portland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="newark">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="houston">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="boston" target="luvswa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="denver">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="columbus">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="boston" target="oakland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="tampa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="erie">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="sfo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="sjc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="dc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="portsmouth nh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="daydelayed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="san diego">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="philly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="boston" target="pittsburgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="china">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="frankfurt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="san francisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="las vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="bangkok">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="ohare">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="chicago" target="houston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="vegas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="chicago" target="evansville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="san juan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="omaha">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="chicago" target="toronto">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="sacramento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="la">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="mexico city">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="beijing">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="sw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="philly">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="korea">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="dulles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="herndon va">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="buffalo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="phoenix">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chicago" target="toledo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="denver" target="vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="dc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="atlanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="las vegas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="denver" target="san jose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="portland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="sydney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="bwi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="tampa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="columbus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="denver" target="charlotte">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="cabo san lucas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="pdx">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="san">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="sfo" target="cleveland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="shanghai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="singapore">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="houston">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="sfo" target="newark nj">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="amarillo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="burbank">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="us">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sfo" target="las vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="atlanta">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="charlotte" target="frankfurt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="usa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="wilmington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="nc">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="charlotte" target="letsgoalready">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="philly">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="charlotte" target="syracuse">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="miami">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="philadelphia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="lynchburg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="orlando">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="charlotte" target="london">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="fl">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="charlotte" target="seattle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="la">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="rdu">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charlotte" target="birmingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="orlando">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="newark" target="us">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="tel aviv">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="manchester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="milan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="frankfurt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="minute united">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="dc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="edinburgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="fort myers">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="glasgow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="newark" target="nashville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="austin">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="houston" target="bogota">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="houston" target="reno">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="são paulo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="memphis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="norway">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="honolulu">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="newark nj">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="houston" target="dulles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="calgary">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="belize city">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="san pedro">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="amarillo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="argentina">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="sao paulo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="mexico">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="tucson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="luvswa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="houston" target="new orleans">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="hawaii">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="fort lauderdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="germany">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="cancun">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="huntsville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="orlando">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="philly" target="lexington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="nh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="letsgoalready">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="lynchburg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="phoenix">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="uk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="south carolina">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="la">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philly" target="tampa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="miami" target="paris">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="miami" target="cincy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="miami" target="costa rica">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="miami" target="london">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="miami" target="philadelphia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="miami" target="nashville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="miami" target="ithaca ny">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="sjc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="jamaica">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="el paso">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="tucson">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="detroit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="beijing">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="omaha">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="sw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="orlando">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="atlanta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="tn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vegas" target="tricities">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="san fransisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="taiwan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="canada">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="nashville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="tn">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="tricities">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="nc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="atlanta" target="detroit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nashville" target="las vegas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nashville" target="us">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nashville" target="baltimore">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nashville" target="memphis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nashville" target="birmingham">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nashville" target="london">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="us">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="aprilmay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="lasalle">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="bwi">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="hartford">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="lynchburg">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="orlando" target="san angelo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="california">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="uk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="mexico">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="london">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="glasgow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="herndon">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="us" target="virginia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="san diego">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="las">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="austin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="manchester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="fort lauderdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="carolina area">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bwi" target="la">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="pdx">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="aus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="friendlyskies">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="abq">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="jfk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="phx">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las" target="patheticcx">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="la" target="nyc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="la" target="santa barbara">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="la" target="sydney">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="la" target="united midland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="la" target="dc">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="austin" target="emirates">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="austin" target="fl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="austin" target="san diego">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ny" target="texas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ny" target="yyz">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ny" target="washington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ny" target="tampa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dc" target="shanghai">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dc" target="edinburgh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dc" target="st louis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dc" target="rdu">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philadelphia" target="san diego">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philadelphia" target="salt lake">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="philadelphia" target="fl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="seattle" target="nyc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="seattle" target="columbus">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="seattle" target="ft lauderdale fl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="san diego" target="detroit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="san diego" target="san juan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="mexico" target="farmington">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="uk" target="california">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="uk" target="manchester">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="columbus" target="oakland">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="columbus" target="phoenix">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="columbus" target="ohio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="columbus" target="texas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="florida" target="detroit">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="florida" target="daytona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hawaii" target="america">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hawaii" target="sanfrancisco">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hawaii" target="canada">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="phoenix" target="san jose">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="phoenix" target="toledo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ohare" target="helpmeplease">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ohare" target="stl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ohare" target="san juan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="yyz" target="taiwan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="las vegas" target="paris">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nc" target="charleston">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nc" target="sc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nc" target="greensboro">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="london" target="dublin">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="london" target="heathrow">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="slc" target="san">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="slc" target="roc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="texas" target="sandiego">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="texas" target="ohio">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="california" target="idaho">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="california" target="cali">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="paris" target="frankfurt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="paris" target="sju">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dulles" target="punta cana">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dulles" target="herndon va">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="okc" target="sacramento">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="portland" target="maine">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="portland" target="perth">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="san francisco" target="frankfurt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="san francisco" target="fort lauderdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="australia" target="philippines">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="america" target="russia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="new york" target="puerto rico">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="st louis" target="airpt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="cleveland" target="bruins">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="san juan" target="st thomas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="pittsburgh" target="fresno">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="sju" target="sxm">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nyc" target="norfolk va">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nyc" target="barbados">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="washington" target="nantucket">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="charleston" target="sc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="oakland" target="sna">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bogota" target="colombia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bogota" target="melbourne australia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="bahamas" target="nola">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="omaha" target="az">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="omaha" target="beijing">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="omaha" target="sw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="phx" target="sw">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="phx" target="arizona">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="baltimore" target="greenville">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="greenville" target="sc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="cuba" target="barbados">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="honolulu" target="los angeles">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sacramento" target="minneapolis">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="aruba" target="hou">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="aruba" target="puerto vallarta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="louisville" target="ft lauderdale">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="louisville" target="ky">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="louisville" target="laguardia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="barbados" target="barbados nyc">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="italy" target="naples">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="italy" target="usnavy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="italy" target="milan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="alaska" target="arkansas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sydney" target="united midland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="puerto vallarta" target="hou">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="puerto vallarta" target="kick united">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="el paso" target="dealsmay">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="gainesville" target="tallahassee">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="los angeles" target="hollywood">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="lusaka" target="zambia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="san pedro" target="belize city">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="mn" target="united united danroam">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="nrt" target="bkk">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sw" target="beijing">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="west palm beach" target="jetbluerocks">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="west palm beach" target="charlotte fl">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="st lucia" target="antigua">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="laguardia" target="ky">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="laguardia" target="louisville ky">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="guam" target="saipan">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="kuala lumpur" target="malaysia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="colombia" target="melbourne australia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="lubbock" target="midland">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="naples" target="usnavy">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="daytona beach" target="new york albany">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="tn" target="tricities">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="herndon" target="virginia">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="cuzco" target="lima">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="delhi" target="jaipur">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="kevolt" target="sozldj">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

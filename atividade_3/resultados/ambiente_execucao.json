@@ -1,0 +1,24 @@
+{
+  "python": "3.10.0",
+  "sistema": "Windows",
+  "bibliotecas": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.9",
+    "torch": "2.14.1+cpu",
+    "spacy": "3.8.16",
+    "networkx": "3.4.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.3.0"
+  },
+  "modelo_spacy": {
+    "nome": "en_core_web_lg",
+    "versao": "3.8.0"
+  },
+  "semente": 42,
+  "documentos": 14640,
+  "word2vec_limite": 500000
+}
